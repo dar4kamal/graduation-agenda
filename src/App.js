@@ -1,15 +1,15 @@
-import "./App.css";
-
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <div>
-          <img src="assets/agenda.jpg" alt="MUST Logo" />
-        </div>
-      </header>
+    <div className="w-screen h-screen bg-[#144476]">
+      <div className="h-full md:h-auto flex items-center justify-center bg-[#144476]">
+        <img
+          className="w-auto max-h-full"
+          src="assets/agenda.jpg"
+          alt="Grad Agenda"
+        />
+      </div>
     </div>
   );
-}
+};
 
 export default App;
