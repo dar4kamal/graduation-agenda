@@ -4,7 +4,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>MUST CAIT Graduation Agenda 2022</p>
+        <div>
+          <img src="assets/agenda.jpg" alt="MUST Logo" />
+        </div>
       </header>
     </div>
   );
