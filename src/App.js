@@ -4,7 +4,7 @@ const App = () => {
       <div className="h-full md:h-auto flex items-center justify-center bg-[#144476]">
         <img
           className="w-auto max-h-full"
-          src="assets/agenda.jpg"
+          src="assets/agenda2.jpg"
           alt="Grad Agenda"
         />
       </div>
