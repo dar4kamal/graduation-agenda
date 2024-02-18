@@ -1,10 +1,10 @@
 const App = () => {
   return (
-    <div className="w-screen h-screen bg-[#144476]">
-      <div className="h-full md:h-auto flex items-center justify-center bg-[#144476]">
+    <div className="w-screen h-screen bg-[#168cba]">
+      <div className="h-full md:h-auto flex items-center justify-center bg-[#168cba]">
         <img
           className="w-auto max-h-full"
-          src="assets/ICCIIS_CFP.jpg"
+          src="assets/ICCAIT_Latest.jpg"
           alt="Grad Agenda"
         />
       </div>
